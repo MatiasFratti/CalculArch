@@ -1,0 +1,25 @@
+.login{
+    margin-top: 75px;
+    min-width: 300px;
+    width: 360px;
+    
+    
+}
+h2{
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    color:#ffdf00;
+}
+.brand-logo{
+    margin-left: 20px;
+    
+}
+.btn{
+     color: #ffdf00;
+     background: #80959c;
+     margin-top: -10px;
+}  
+.input-field{
+    margin-left: .7rem !important;
+ }
+ 

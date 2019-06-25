@@ -1,0 +1,18 @@
+.materials{
+    margin-top: 130px;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+.grid_mat{
+    width: 100%;
+    align-items: center;
+    height: 400px;
+}
+@media only screen and (min-width: 601px){
+    .row .col.m7 {
+        width: 100%;
+        margin-left: auto;
+        left: auto;
+        right: auto;
+    }
+}

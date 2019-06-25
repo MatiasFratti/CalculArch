@@ -1,0 +1,51 @@
+{
+    "Materiales":[ 
+        {
+        "name":"Hormigón",
+        "description":"Vigas, Columnas, Zapatas, Plateas, Losas, etc",
+        "link":"hormigon",
+        "url":"http://www.alp-fix.at/wp-content/uploads/15.png"
+        },
+        {
+        "name":"Mortero",
+        "description":"Vigas, Columnas, Zapatas, Plateas, Losas, etc",
+        "link":"mortero",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhAPHGLarOaEbF4kSK3RkF-dvVUZQ0Jhv5yuSrrsluHN7exVE"
+        }
+        ,
+        {
+        "name":"Armaduras",
+        "description":"Vigas, columnas, contrapisos, losas, etc",
+        "link":"armadura",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFrVK61zTUP3mNO7fls53jpVirZzykxuX0krHl9GL6aU2Qi0w"
+        }
+        ,
+        {
+        "name":"Mampostería",
+        "description":"Ladrillos, bloques, ticholos, placas yeso, etc",
+        "link":"mamposteria",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7RfHFA5eupgugeWrEDLpxF0UjjyaGkacUCCYU7WcIrYz37go"
+        }
+        ,
+        {
+        "name":"Revestimientos",
+        "description":"Cerámicas, porcelanatos, placas yeso, etc",
+        "link":"revestimientos",
+        "url":"https://www.writersnewsweekly.com/wp-content/uploads/2019/03/los-revestimientos-en-pisos-y-paredes-pisos-epoxi-emc-construcciones-de-los-revestimientos-en-pisos-y-paredes.jpg"
+        }
+        ,
+        {
+        "name":"Encofrados",
+        "description":"vigas, columnas, zapatas, techos, plateas, etc",
+        "link":"encofrados",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NQRsblORcy9eVExq6l841wusejiSNOLHu5XKAlUig-jgauwM_g"
+        }
+        ,
+        {
+        "name":"Techos",
+        "description":"Losas, tejas, chapas, isopanel, etc",
+        "link":"techos",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4TZVJDclX5lOUI9r8t3rigY62GweijP-jyDaoFgQ220YG9Npcg"
+        }
+    ]
+}

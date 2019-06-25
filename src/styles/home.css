@@ -1,0 +1,27 @@
+#img_constr{
+    margin-left: 23px !important;
+    width: 96%;
+   height: 100%;
+   border-radius: 30%;
+   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.34), 0 3px 1px -2px rgba(0,0,0,0.32), 0 1px 5px 0 rgba(0,0,0,0.4);
+    
+  
+}
+.img_constr{
+    padding-top: 80px;
+    margin: auto;
+    width: 657px;
+    height: 100%;
+    object-fit: cover;
+    color: #ffdf00;
+     
+}
+
+.btn:hover {
+    background: #ffdf00;
+    color: #80959c;
+}
+.btn{
+    color: #ffdf00;
+    font-family: 'IM Fell English SC', serif;
+}
