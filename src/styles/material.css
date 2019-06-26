@@ -14,6 +14,7 @@ span, p{
 .card-action a{
     color:#ffdf00 !important;
     font-family: 'IM Fell English SC', serif;
+    text-shadow: 2px 2px #333;
 }
 .card-action {
     background-color:whitesmoke !important;
@@ -22,6 +23,7 @@ span, p{
 .card .card-image .card-title{
     margin-left: -19px;
     color: #ffdf00;
+    text-shadow: 2px 2px #333;
     
     
 }

@@ -4,16 +4,30 @@ nav {
     font-family: 'IM Fell English SC', serif;
     color:#ffdf00;
     
+    
   }
   nav .brand-logo{
     color:#ffdf00;
+    text-shadow: 2px 2px #333;
   }
   .navbar-fixed{
     height: 70px;
   }
   .tab a{
     color:#ffdf00 !important;
+    text-shadow: 2px 2px #333;
   }
   nav ul a{
-    color:#ffdf00 !important;
+    /* color:#ffdf00 !important; */
+    color:black;
+    text-shadow: 1px 1px #ffdf00;
+    
+  }
+  nav ul li ul li{
+    color: black;
+    position:absolute;
+    min-width:140px;
+    background: gray;
+    display: block;
+
   }

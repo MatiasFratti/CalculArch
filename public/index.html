@@ -17,7 +17,9 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     
-    
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
     <title>ContruCalc</title>
   </head>
   <body>
@@ -28,4 +30,21 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
    
   </body>
+  
+<script>
+$( document ).ready(function(){
+
+$(".dropdown-trigger").dropdown({
+  inDuration: 300,
+    outDuration: 225,
+    constrain_width: false, // Does not change width of dropdown to that of the activator
+    hover: true, // Activate on hover
+    gutter: 0, // Spacing from edge
+    belowOrigin: false, // Displays dropdown below the button
+    alignment: 'left'
+});
+alert($('.dropdown-trigger').text());
+
+});
+</script>
 </html>

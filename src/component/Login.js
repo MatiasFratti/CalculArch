@@ -1,9 +1,9 @@
 import React ,{ Fragment }from 'react';
 import ReactDOM, {render} from 'react-dom';
 
-import { Route,Switch} from 'react-router-dom';
+// import { Route,Switch} from 'react-router-dom';
 
-import {Redirect} from 'react-dom';
+// import {Redirect} from 'react-dom';
 import '../styles/login.css';
 import App from '../App';
 import { Home } from './Home';
@@ -47,7 +47,7 @@ class Login extends React.Component{
                 'Content-Type':'application/json'
             }
         }).then(res=>res.json());
-        if(_user.msg != "Ok"){
+        if(_user.msg !== "Ok"){
             window.M.toast({html:"Error de credenciales"});
         }
         else{
